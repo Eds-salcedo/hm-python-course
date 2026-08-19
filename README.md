@@ -18,21 +18,6 @@ What you will learn
 - Machine learning
 - Working with files
 
-## Module Description- Installing necessary tools
-- Basic types
-- Advanced types
-- Flow control
-- Functions
-- Classes
-- Exceptions
-- Modules
-- Native libraries
-- PIP package index
-- Most popular libraries
-- Introduction to Django
-- Machine Learning
-- Working with files
-
 ## Full Course Description
 
 If you want to learn how to program, you are a student and want to polish your skills, or you are already a Python developer and want to know more about the language, you must to have this course on your resume. That is what this course is about!
