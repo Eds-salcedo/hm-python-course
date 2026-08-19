@@ -18,8 +18,20 @@ What you will learn
 - Machine learning
 - Working with files
 
-## Module Description
-Introduction to Python, focused on variables, data type, formatting, etc
+## Module Description- Installing necessary tools
+- Basic types
+- Advanced types
+- Flow control
+- Functions
+- Classes
+- Exceptions
+- Modules
+- Native libraries
+- PIP package index
+- Most popular libraries
+- Introduction to Django
+- Machine Learning
+- Working with files
 
 ## Full Course Description
 
