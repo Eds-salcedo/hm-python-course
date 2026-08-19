@@ -26,6 +26,11 @@ Python is among the most popular languages ​​today, because it is used to bu
 
 In this course we are going to learn everything you need to know about Python, enough to become a master quickly with videos in small capsules and easy-to-follow examples.
 
+## Modules content
+01: Basic Bash commands, helpful for future file management.
+02: Pyhton basics, functions, data types, formats, indexes, dealing with numbers, etc.
+03: Diving deeper into Python, focused on coding with logical comparators (">", "<" & "="), conditionals ("if", "else" & "elif") and the very-important loops ("for" & "while").
+
 ### Among the things we will see in this course:
 
 - Installing the necessary tools.
